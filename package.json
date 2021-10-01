@@ -1,5 +1,5 @@
 {
-  "name": "autobahn-development",
+  "name": "autobahn",
   "description": "Local development package (never pubished) for autobahn and autobahn-xbr library development and CI.",
   "private": true,
   "engines": {
